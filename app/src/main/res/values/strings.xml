@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="joogle">Joogle</string>
+    <string name="your_url">Your URL:</string>
+    <string name="search">Search</string>
+    <string name="Your_Text">Your Text</string>
+    <string name="reverse">Reverse</string>
+    <string name="reverse_mode">Reverse Mode</string>
+</resources>
